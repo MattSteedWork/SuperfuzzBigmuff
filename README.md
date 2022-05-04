@@ -1,6 +1,6 @@
-# SuperFuzzBigMuff\n
-A Small NMAP/SMB/WFUZZ Automation Tool\n
+# SuperFuzzBigMuff
+A Small NMAP/SMB/WFUZZ Automation Tool  
 
-Just run ./SFBM.sh
-\n
+Just run ./SFBM.sh  
+  
 :)
