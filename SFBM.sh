@@ -30,6 +30,8 @@ mkdir $inn-Results/Nmap
 mkdir $inn-Results/SMB
 mkdir $inn-Results/Wfuzz
 
+}
+
 function SFBM() {
 nmap $inn -v0 -Pn -o $inn-Results/Nmap/$inn-Nmap.txt
 echo -e "\n${GREEN}[+] Nmap Output Written to $inn-Results/Nmap/$inn-Nmap.txt\n"
