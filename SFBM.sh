@@ -22,7 +22,7 @@ echo ""
 echo -e "${RED}"
 read inn
 echo ""
-echo -e "${GREEN}[+] Running Nmap..."
+echo -e "${GREEN}[+] Running Nmap...${NOCOLOR}"
 
 function mk_dir() {
 mkdir $inn-Results
