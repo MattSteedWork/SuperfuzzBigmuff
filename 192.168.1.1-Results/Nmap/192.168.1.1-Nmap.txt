@@ -1,7 +1,0 @@
-# Nmap 7.80 scan initiated Thu May  5 09:47:23 2022 as: nmap -v0 -Pn -o 192.168.1.1-Results/Nmap/192.168.1.1-Nmap.txt 192.168.1.1
-Nmap scan report for _gateway (192.168.1.1)
-Host is up (0.0048s latency).
-All 1000 scanned ports on _gateway (192.168.1.1) are filtered
-MAC Address: C4:FF:1F:71:BE:5C (Huawei Technologies)
-
-# Nmap done at Thu May  5 09:47:45 2022 -- 1 IP address (1 host up) scanned in 21.30 seconds
