@@ -52,5 +52,6 @@ exit
 
 # Call functions
 
+mk_dir
 SFBF
 
